@@ -37,6 +37,11 @@ footer {
     }
 
 
+    a:hover {
+        color: white
+    }
+
+
     .centered {
         /*    margin-left: 20px;
     margin-right: 20px;*/
